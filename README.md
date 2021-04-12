@@ -45,3 +45,8 @@ Util is a full-fledged server & user utility discord bot. Util's main focus is t
 **[Support Server](https://dsc.gg/utilsupport)**
 
 **[Website](https://util-bot.web.app)**
+
+## Credits
+@nerdguyahmad | Founder, Lead Developer
+@FlamptX | Website Developer, Senior Developer, Senior Support Supervisior
+@Hoax | Technical Writer, Support Agent
