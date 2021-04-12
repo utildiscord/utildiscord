@@ -38,7 +38,7 @@ Util is a full-fledged server & user utility discord bot. Util's main focus is t
 - Full-fledged settings panel
 
 ## Links
-**[Add Util](https://dsc.gg/util)**
-**[Community Server](https://dsc.gg/utilcommunity)**
-**[Support Server](https://dsc.gg/utilsupport)**
-**[Website](https://util-bot.web.app)**
+**[Add Util](https://dsc.gg/util)**\n
+**[Community Server](https://dsc.gg/utilcommunity)**\n
+**[Support Server](https://dsc.gg/utilsupport)**\n
+**[Website](https://util-bot.web.app)**\n
