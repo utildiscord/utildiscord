@@ -5,50 +5,30 @@ Util is a full-fledged server & user utility discord bot. Util's main focus is t
 ## Features
 - Server Utility
     - Powerful, Anti-bot, Server Captcha Verification System
+    - Feature rich suggestions channels
     - Easy to use, Applications management system
-    - Greeting Messages
     - Custom VCs
     - Fast, Efficient & Feature-rich Events Logging System
     - Server Statistics to show-off your member, bots, channel, categories and boosts count
     - Tags
+    - Giveaways
+    - Cases System
 
 - Utility
-    - Notifications (Reminders, Birthday wishes, Member online notification)
-    - Todo's list
-    - YouTube, Google, Urban Dictionary and Reddit searches
-    - Weather Updates
+    - Todo's list with notifications
+    - YouTube, Reddit, Wikipedia, Urban Dictionary and other searches
     - Games (Multiplayer, Singleplayer)
     - Powerful Server Information & User Information features with tons of details
     - In-built feedback commands
-    - Easy Webhook Interactions
+    - Image Manipulation commands
 
-- Profiling
-    - User Profiling
-        - Bio
-        - Badges
-        - Birthday
-        - Pronouns
-        - Gender
-    - Guild Profiling
-        - Description
-        - Owner
-        - Invite
-        - Member, Bots, Channels, Boosts Count
-
-- Full-fledged settings panel
 
 ## Links
 **[Add Util](https://dsc.gg/util)**
 
-**[Community Server](https://dsc.gg/utilcommunity)**
-
-**[Support Server](https://dsc.gg/utilsupport)**
+**[Official Server](https://dsc.gg/utildiscord)**
 
 **[Website](https://util-bot.web.app)**
 
 ## Credits
-**@nerdguyahmad** | Founder, Lead Developer
-
-**@FlamptX** | Website Developer, Senior Developer, Senior Support Supervisior
-
-**@Hoax** | Technical Writer, Support Agent
+**@nerdguyahmad** and a great management team with awesome people.
